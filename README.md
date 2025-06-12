@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0197-rising-temperature](https://github.com/Srikar-jayanthi/leetcode/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Srikar-jayanthi/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0595-big-countries](https://github.com/Srikar-jayanthi/leetcode/tree/master/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/Srikar-jayanthi/leetcode/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/Srikar-jayanthi/leetcode/tree/master/0626-exchange-seats) |
 | [1258-article-views-i](https://github.com/Srikar-jayanthi/leetcode/tree/master/1258-article-views-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Srikar-jayanthi/leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
