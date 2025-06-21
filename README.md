@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Srikar-jayanthi/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Srikar-jayanthi/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srikar-jayanthi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Srikar-jayanthi/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Srikar-jayanthi/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Srikar-jayanthi/leetcode/tree/master/0189-rotate-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Srikar-jayanthi/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -73,4 +74,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srikar-jayanthi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Srikar-jayanthi/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Srikar-jayanthi/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
