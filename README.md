@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Srikar-jayanthi/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Srikar-jayanthi/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Srikar-jayanthi/leetcode/tree/master/0189-rotate-array) |
+| [1293-three-consecutive-odds](https://github.com/Srikar-jayanthi/leetcode/tree/master/1293-three-consecutive-odds) |
 | [3227-find-missing-and-repeated-values](https://github.com/Srikar-jayanthi/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
