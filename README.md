@@ -81,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Srikar-jayanthi/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## String
+|  |
+| ------- |
+| [3379-score-of-a-string](https://github.com/Srikar-jayanthi/leetcode/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->
