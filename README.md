@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Srikar-jayanthi/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Srikar-jayanthi/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Srikar-jayanthi/leetcode/tree/master/0189-rotate-array) |
+| [0953-reverse-only-letters](https://github.com/Srikar-jayanthi/leetcode/tree/master/0953-reverse-only-letters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,5 +86,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0953-reverse-only-letters](https://github.com/Srikar-jayanthi/leetcode/tree/master/0953-reverse-only-letters) |
 | [3379-score-of-a-string](https://github.com/Srikar-jayanthi/leetcode/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->
