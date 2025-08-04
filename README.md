@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0626-exchange-seats](https://github.com/Srikar-jayanthi/leetcode/tree/master/0626-exchange-seats) |
 | [1161-project-employees-i](https://github.com/Srikar-jayanthi/leetcode/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/Srikar-jayanthi/leetcode/tree/master/1258-article-views-i) |
+| [1317-monthly-transactions-i](https://github.com/Srikar-jayanthi/leetcode/tree/master/1317-monthly-transactions-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Srikar-jayanthi/leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1338-queries-quality-and-percentage](https://github.com/Srikar-jayanthi/leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Srikar-jayanthi/leetcode/tree/master/1390-average-selling-price) |
